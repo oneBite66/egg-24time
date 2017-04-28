@@ -44,8 +44,8 @@ module.exports = appInfo => {
   };
 
   config.weappSDK = {
-    appId: '', // your weapp appId
-    appSecret: '', // weapp appSecret
+    appId: 'wx65c23c3f8aa2c821', // your weapp appId
+    appSecret: '8b54f39fd0c750c4fde1a1bf5425e7da', // weapp appSecret
   };
 
   config.security = {
