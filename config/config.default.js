@@ -39,7 +39,7 @@ module.exports = appInfo => {
     database: 'tftime',
     host: 'localhost',
     port: '3306',
-    username: 'root@localhost',
+    username: 'root',
     password: 'Haizei13wang!',
   };
 
