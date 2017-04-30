@@ -40,7 +40,7 @@ module.exports = appInfo => {
     host: 'localhost',
     port: '3306',
     username: 'root',
-    password: 'Haizei13wang!',
+    password: 'Wangjunqin123',
   };
 
   config.weappSDK = {
