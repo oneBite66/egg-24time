@@ -39,8 +39,8 @@ module.exports = appInfo => {
     database: 'tftime',
     host: 'localhost',
     port: '3306',
-    username: 'root',
-    password: '',
+    username: 'root@localhost',
+    password: 'Haizei13wang!',
   };
 
   config.weappSDK = {
